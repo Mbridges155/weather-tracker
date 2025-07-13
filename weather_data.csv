@@ -1,0 +1,22 @@
+city,temperature,humidity,description,wind_speed,
+Tokyo,78.01,90,broken clouds,6.91,2025-07-13T14:10:43.378535
+Denver,85.6,37,clear sky,4,2025-07-13T14:10:43.454411
+Atlanta,91,53,few clouds,11.5,2025-07-13T14:10:43.529187
+Tokyo,78.01,90,broken clouds,6.91,2025-07-13T14:11:43.634085
+Denver,85.6,37,clear sky,4,2025-07-13T14:11:43.979137
+Atlanta,91,53,few clouds,11.5,2025-07-13T14:11:44.053485
+Tokyo,77.79,90,broken clouds,9.22,2025-07-13T14:33:54.146681
+Denver,86.31,36,clear sky,4,2025-07-13T14:33:54.221830
+Atlanta,91.29,53,few clouds,11.5,2025-07-13T14:33:54.307771
+Tokyo,77.79,90,broken clouds,9.22,2025-07-13T14:34:41.045663
+Denver,86.31,36,clear sky,4,2025-07-13T14:34:41.126757
+Atlanta,91.29,53,few clouds,11.5,2025-07-13T14:34:41.216497
+Tokyo,77.79,90,broken clouds,9.22,2025-07-13T14:37:00.922821
+Denver,86.31,36,clear sky,4,2025-07-13T14:37:00.999223
+Atlanta,92.01,52,scattered clouds,11.5,2025-07-13T14:37:01.076654
+Tokyo,77.77,91,broken clouds,9.22,2025-07-13T15:08:52.967431
+Denver,87.55,33,clear sky,5.01,2025-07-13T15:08:53.042699
+Atlanta,92.14,53,scattered clouds,11.5,2025-07-13T15:08:53.118932
+Tokyo,77.11,89,broken clouds,10.36,2025-07-13T15:38:53.930037
+Denver,88.79,31,clear sky,5.01,2025-07-13T15:38:54.003720
+Atlanta,92.28,50,few clouds,9.22,2025-07-13T15:38:54.077081
