@@ -4,9 +4,12 @@ import os
 import time
 import schedule
 from datetime import datetime
+from dotenv import load_dotenv
+
 
 # === CONFIG ===
-API_KEY = "d87a7bfd5b2049f38c69103cfa4f2f69"
+load_dotenv()
+API_KEY = os.getenv("OWM_API_KEY")
 CITIES = ['Tokyo', 'Denver', 'Atlanta']
 FILENAME = r"C:\Users\macke\OneDrive\Desktop\Weather_Scripts\weather_data.csv"
 
