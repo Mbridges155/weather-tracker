@@ -1,0 +1,10 @@
+city,temperature,humidity,description,wind_speed,timestamp
+Tokyo,76.8,89,broken clouds,10.36,2025-07-13T16:08:54.843183
+Denver,89.92,28,clear sky,4,2025-07-13T16:08:54.918311
+Atlanta,92.95,45,scattered clouds,8.05,2025-07-13T16:08:54.991952
+Tokyo,76.82,90,broken clouds,12.66,2025-07-13T16:38:55.739682
+Denver,90.88,27,clear sky,5.01,2025-07-13T16:38:55.814016
+Atlanta,93.56,44,scattered clouds,8.05,2025-07-13T16:38:55.890146
+Tokyo,76.78,90,broken clouds,11.5,2025-07-13T17:08:56.649099
+Denver,90.88,27,clear sky,4,2025-07-13T17:08:56.728795
+Atlanta,93.02,45,scattered clouds,8.05,2025-07-13T17:08:56.803739
